@@ -1,0 +1,6 @@
+
+urlPost=https://test-stand.gb.ru/gateway/login
+urlGet=https://test-stand.gb.ru/api/posts?owner=notMe&sort=createdAt&order=ASC&page=1
+urlGetTest=https://test-stand.gb.ru/api/posts?owner=notMe
+urlGet2=https://test-stand.gb.ru/api/posts?sort=createdAt&order=ASC&page=1
+urlGet2Test=https://test-stand.gb.ru/api/posts
